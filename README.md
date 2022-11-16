@@ -4,4 +4,4 @@
 
 ### Links Úteis
 
-[Markdown Sintax](https://www.markdownguide.org/basic-syntax/)
+[Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
